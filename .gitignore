@@ -1,0 +1,3 @@
+/secret/
+/src/**/*
+!/src/code.js
